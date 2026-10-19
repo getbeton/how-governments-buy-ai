@@ -1,0 +1,676 @@
+country,region,quarter,procurements,ai_procurements,ai_per_10k
+Albania,Eastern Europe & Balkans,2024Q1,125,0,0.0
+Albania,Eastern Europe & Balkans,2024Q2,233,0,0.0
+Albania,Eastern Europe & Balkans,2024Q3,238,1,42.02
+Albania,Eastern Europe & Balkans,2024Q4,219,0,0.0
+Albania,Eastern Europe & Balkans,2025Q1,164,0,0.0
+Albania,Eastern Europe & Balkans,2025Q2,189,0,0.0
+Albania,Eastern Europe & Balkans,2025Q3,269,1,37.17
+Albania,Eastern Europe & Balkans,2025Q4,100,0,0.0
+Australia,Asia-Pacific,2024Q1,12037,7,5.82
+Australia,Asia-Pacific,2024Q2,19131,11,5.75
+Australia,Asia-Pacific,2024Q3,17870,7,3.92
+Australia,Asia-Pacific,2024Q4,13484,4,2.97
+Australia,Asia-Pacific,2025Q1,11994,8,6.67
+Australia,Asia-Pacific,2025Q2,16340,10,6.12
+Australia,Asia-Pacific,2025Q3,16836,18,10.69
+Australia,Asia-Pacific,2025Q4,12808,12,9.37
+Australia,Asia-Pacific,2026Q1,10751,17,15.81
+Australia,Asia-Pacific,2026Q2,16950,41,24.19
+Australia,Asia-Pacific,2026Q3,14967,11,7.35
+Austria,Western Europe,2024Q1,2530,6,23.72
+Austria,Western Europe,2024Q2,3024,2,6.61
+Austria,Western Europe,2024Q3,3115,13,41.73
+Austria,Western Europe,2024Q4,3337,9,26.97
+Austria,Western Europe,2025Q1,3243,13,40.09
+Austria,Western Europe,2025Q2,3005,6,19.97
+Austria,Western Europe,2025Q3,3068,8,26.08
+Austria,Western Europe,2025Q4,3097,11,35.52
+Austria,Western Europe,2026Q1,2939,10,34.03
+Austria,Western Europe,2026Q2,3071,12,39.08
+Austria,Western Europe,2026Q3,2957,12,40.58
+Belgium,Western Europe,2024Q1,4276,9,21.05
+Belgium,Western Europe,2024Q2,4742,7,14.76
+Belgium,Western Europe,2024Q3,4554,16,35.13
+Belgium,Western Europe,2024Q4,4725,11,23.28
+Belgium,Western Europe,2025Q1,4522,12,26.54
+Belgium,Western Europe,2025Q2,4950,25,50.51
+Belgium,Western Europe,2025Q3,4866,18,36.99
+Belgium,Western Europe,2025Q4,5124,12,23.42
+Belgium,Western Europe,2026Q1,4788,26,54.3
+Belgium,Western Europe,2026Q2,5098,13,25.5
+Belgium,Western Europe,2026Q3,5250,9,17.14
+Brazil,Latin America,2024Q1,33985,44,12.95
+Brazil,Latin America,2024Q2,71876,102,14.19
+Brazil,Latin America,2024Q3,85309,159,18.64
+Brazil,Latin America,2024Q4,87673,218,24.87
+Brazil,Latin America,2025Q1,57753,162,28.05
+Brazil,Latin America,2025Q2,72697,308,42.37
+Brazil,Latin America,2025Q3,86187,453,52.56
+Brazil,Latin America,2025Q4,76507,417,54.5
+Brazil,Latin America,2026Q1,53767,265,49.29
+Brazil,Latin America,2026Q2,74027,496,67.0
+Brazil,Latin America,2026Q3,60053,446,74.27
+Bulgaria,Eastern Europe & Balkans,2024Q1,3202,4,12.49
+Bulgaria,Eastern Europe & Balkans,2024Q2,6182,5,8.09
+Bulgaria,Eastern Europe & Balkans,2024Q3,6400,4,6.25
+Bulgaria,Eastern Europe & Balkans,2024Q4,6694,10,14.94
+Bulgaria,Eastern Europe & Balkans,2025Q1,6251,7,11.2
+Bulgaria,Eastern Europe & Balkans,2025Q2,6508,13,19.98
+Bulgaria,Eastern Europe & Balkans,2025Q3,7070,16,22.63
+Bulgaria,Eastern Europe & Balkans,2025Q4,7323,27,36.87
+Bulgaria,Eastern Europe & Balkans,2026Q1,6200,11,17.74
+Bulgaria,Eastern Europe & Balkans,2026Q2,5867,7,11.93
+Bulgaria,Eastern Europe & Balkans,2026Q3,5781,9,15.57
+Canada,North America,2024Q1,21359,13,6.09
+Canada,North America,2024Q2,19245,14,7.27
+Canada,North America,2024Q3,14491,9,6.21
+Canada,North America,2024Q4,14740,13,8.82
+Canada,North America,2025Q1,18146,24,13.23
+Canada,North America,2025Q2,17922,15,8.37
+Canada,North America,2025Q3,13725,18,13.11
+Canada,North America,2025Q4,14663,17,11.59
+Canada,North America,2026Q1,19636,34,17.32
+Canada,North America,2026Q2,18124,35,19.31
+Canada,North America,2026Q3,14913,24,16.09
+Chile,Latin America,2024Q1,314595,66,2.1
+Chile,Latin America,2024Q2,381843,122,3.2
+Chile,Latin America,2024Q3,365717,139,3.8
+Chile,Latin America,2024Q4,365685,132,3.61
+Chile,Latin America,2025Q1,269468,96,3.56
+Chile,Latin America,2025Q2,305977,217,7.09
+Chile,Latin America,2025Q3,95398,50,5.24
+Chile,Latin America,2025Q4,103302,88,8.52
+Chile,Latin America,2026Q1,93476,58,6.2
+Chile,Latin America,2026Q2,39311,25,6.36
+Colombia,Latin America,2024Q1,290988,58,1.99
+Colombia,Latin America,2024Q2,185671,80,4.31
+Colombia,Latin America,2024Q3,216965,77,3.55
+Colombia,Latin America,2024Q4,188354,71,3.77
+Colombia,Latin America,2025Q1,399327,152,3.81
+Colombia,Latin America,2025Q2,180376,85,4.71
+Colombia,Latin America,2025Q3,230104,115,5.0
+Colombia,Latin America,2025Q4,207267,141,6.8
+Colombia,Latin America,2026Q1,526798,270,5.13
+Colombia,Latin America,2026Q2,52600,12,2.28
+Colombia,Latin America,2026Q3,284858,96,3.37
+Croatia,Eastern Europe & Balkans,2024Q1,1502,0,0.0
+Croatia,Eastern Europe & Balkans,2024Q2,2450,0,0.0
+Croatia,Eastern Europe & Balkans,2024Q3,2603,2,7.68
+Croatia,Eastern Europe & Balkans,2024Q4,2942,1,3.4
+Croatia,Eastern Europe & Balkans,2025Q1,2975,1,3.36
+Croatia,Eastern Europe & Balkans,2025Q2,3378,4,11.84
+Croatia,Eastern Europe & Balkans,2025Q3,3500,2,5.71
+Croatia,Eastern Europe & Balkans,2025Q4,3677,10,27.2
+Croatia,Eastern Europe & Balkans,2026Q1,4093,9,21.99
+Croatia,Eastern Europe & Balkans,2026Q2,3945,20,50.7
+Croatia,Eastern Europe & Balkans,2026Q3,4265,9,21.1
+Cyprus,Southern Europe,2024Q1,434,0,0.0
+Cyprus,Southern Europe,2024Q2,420,0,0.0
+Cyprus,Southern Europe,2024Q3,434,0,0.0
+Cyprus,Southern Europe,2024Q4,486,0,0.0
+Cyprus,Southern Europe,2025Q1,461,0,0.0
+Cyprus,Southern Europe,2025Q2,458,0,0.0
+Cyprus,Southern Europe,2025Q3,733,0,0.0
+Cyprus,Southern Europe,2025Q4,679,4,58.91
+Cyprus,Southern Europe,2026Q1,469,3,63.97
+Cyprus,Southern Europe,2026Q2,492,0,0.0
+Cyprus,Southern Europe,2026Q3,485,1,20.62
+Czechia,Central Europe,2024Q1,4873,2,4.1
+Czechia,Central Europe,2024Q2,9879,19,19.23
+Czechia,Central Europe,2024Q3,10780,17,15.77
+Czechia,Central Europe,2024Q4,10487,10,9.54
+Czechia,Central Europe,2025Q1,11210,10,8.92
+Czechia,Central Europe,2025Q2,11839,25,21.12
+Czechia,Central Europe,2025Q3,12118,15,12.38
+Czechia,Central Europe,2025Q4,11594,23,19.84
+Czechia,Central Europe,2026Q1,11153,25,22.42
+Czechia,Central Europe,2026Q2,11720,34,29.01
+Czechia,Central Europe,2026Q3,11850,28,23.63
+Denmark,Nordics & Baltics,2024Q1,1708,1,5.85
+Denmark,Nordics & Baltics,2024Q2,1801,1,5.55
+Denmark,Nordics & Baltics,2024Q3,1541,2,12.98
+Denmark,Nordics & Baltics,2024Q4,1933,3,15.52
+Denmark,Nordics & Baltics,2025Q1,1850,4,21.62
+Denmark,Nordics & Baltics,2025Q2,1880,3,15.96
+Denmark,Nordics & Baltics,2025Q3,1690,4,23.67
+Denmark,Nordics & Baltics,2025Q4,2098,9,42.9
+Denmark,Nordics & Baltics,2026Q1,1791,2,11.17
+Denmark,Nordics & Baltics,2026Q2,1857,2,10.77
+Denmark,Nordics & Baltics,2026Q3,1723,8,46.43
+Dominican Republic,Latin America,2024Q1,12030,6,4.99
+Dominican Republic,Latin America,2024Q2,14470,13,8.98
+Dominican Republic,Latin America,2024Q3,14786,8,5.41
+Dominican Republic,Latin America,2024Q4,17001,15,8.82
+Dominican Republic,Latin America,2025Q1,12916,11,8.52
+Dominican Republic,Latin America,2025Q2,15915,26,16.34
+Dominican Republic,Latin America,2025Q3,16399,32,19.51
+Dominican Republic,Latin America,2025Q4,18134,30,16.54
+Dominican Republic,Latin America,2026Q1,12496,16,12.8
+Dominican Republic,Latin America,2026Q2,16998,35,20.59
+Dominican Republic,Latin America,2026Q3,17781,33,18.56
+Ecuador,Latin America,2024Q1,48842,1,0.2
+Ecuador,Latin America,2024Q2,63703,4,0.63
+Ecuador,Latin America,2024Q3,54192,7,1.29
+Ecuador,Latin America,2024Q4,52448,5,0.95
+Ecuador,Latin America,2025Q1,43494,1,0.23
+Ecuador,Latin America,2025Q2,63992,8,1.25
+Ecuador,Latin America,2025Q3,42957,7,1.63
+Ecuador,Latin America,2025Q4,40176,10,2.49
+Ecuador,Latin America,2026Q1,39163,2,0.51
+Ecuador,Latin America,2026Q2,42473,12,2.83
+Ecuador,Latin America,2026Q3,24481,24,9.8
+Estonia,Nordics & Baltics,2024Q1,1742,1,5.74
+Estonia,Nordics & Baltics,2024Q2,1736,1,5.76
+Estonia,Nordics & Baltics,2024Q3,1679,2,11.91
+Estonia,Nordics & Baltics,2024Q4,1769,0,0.0
+Estonia,Nordics & Baltics,2025Q1,1764,6,34.01
+Estonia,Nordics & Baltics,2025Q2,1954,1,5.12
+Estonia,Nordics & Baltics,2025Q3,2018,4,19.82
+Estonia,Nordics & Baltics,2025Q4,1908,2,10.48
+Estonia,Nordics & Baltics,2026Q1,1726,4,23.17
+Estonia,Nordics & Baltics,2026Q2,2086,2,9.59
+Estonia,Nordics & Baltics,2026Q3,1958,5,25.54
+Finland,Nordics & Baltics,2024Q1,3313,10,30.18
+Finland,Nordics & Baltics,2024Q2,3335,18,53.97
+Finland,Nordics & Baltics,2024Q3,2603,13,49.94
+Finland,Nordics & Baltics,2024Q4,3360,14,41.67
+Finland,Nordics & Baltics,2025Q1,3220,12,37.27
+Finland,Nordics & Baltics,2025Q2,3479,15,43.12
+Finland,Nordics & Baltics,2025Q3,2597,12,46.21
+Finland,Nordics & Baltics,2025Q4,3612,28,77.52
+Finland,Nordics & Baltics,2026Q1,4029,22,54.6
+Finland,Nordics & Baltics,2026Q2,3841,26,67.69
+Finland,Nordics & Baltics,2026Q3,2799,25,89.32
+France,Western Europe,2024Q1,17934,20,11.15
+France,Western Europe,2024Q2,23435,26,11.09
+France,Western Europe,2024Q3,23589,23,9.75
+France,Western Europe,2024Q4,23686,22,9.29
+France,Western Europe,2025Q1,24248,48,19.8
+France,Western Europe,2025Q2,23757,41,17.26
+France,Western Europe,2025Q3,23681,23,9.71
+France,Western Europe,2025Q4,24222,33,13.62
+France,Western Europe,2026Q1,23055,43,18.65
+France,Western Europe,2026Q2,21623,42,19.42
+France,Western Europe,2026Q3,21676,52,23.99
+Georgia,Middle East & Central Asia,2024Q1,7863,0,0.0
+Georgia,Middle East & Central Asia,2024Q2,7204,2,2.78
+Georgia,Middle East & Central Asia,2024Q3,7527,1,1.33
+Georgia,Middle East & Central Asia,2024Q4,7757,3,3.87
+Georgia,Middle East & Central Asia,2025Q1,10,0,0.0
+Germany,Western Europe,2024Q1,34617,85,24.55
+Germany,Western Europe,2024Q2,35455,96,27.08
+Germany,Western Europe,2024Q3,38940,137,35.18
+Germany,Western Europe,2024Q4,36390,131,36.0
+Germany,Western Europe,2025Q1,35487,99,27.9
+Germany,Western Europe,2025Q2,37253,120,32.21
+Germany,Western Europe,2025Q3,39121,135,34.51
+Germany,Western Europe,2025Q4,37111,194,52.28
+Germany,Western Europe,2026Q1,36717,145,39.49
+Germany,Western Europe,2026Q2,38105,126,33.07
+Germany,Western Europe,2026Q3,39811,189,47.47
+Ghana,Africa,2024Q1,782,0,0.0
+Ghana,Africa,2024Q2,807,0,0.0
+Ghana,Africa,2024Q3,681,0,0.0
+Ghana,Africa,2024Q4,278,0,0.0
+Ghana,Africa,2025Q1,743,0,0.0
+Ghana,Africa,2025Q2,410,1,24.39
+Ghana,Africa,2025Q3,1031,0,0.0
+Ghana,Africa,2025Q4,543,0,0.0
+Greece,Southern Europe,2024Q1,894,6,67.11
+Greece,Southern Europe,2024Q2,1764,6,34.01
+Greece,Southern Europe,2024Q3,1926,12,62.31
+Greece,Southern Europe,2024Q4,2304,23,99.83
+Greece,Southern Europe,2025Q1,1919,25,130.28
+Greece,Southern Europe,2025Q2,2307,26,112.7
+Greece,Southern Europe,2025Q3,2308,19,82.32
+Greece,Southern Europe,2025Q4,2370,15,63.29
+Greece,Southern Europe,2026Q1,1956,18,92.02
+Greece,Southern Europe,2026Q2,2512,28,111.46
+Greece,Southern Europe,2026Q3,2522,16,63.44
+Guatemala,Latin America,2024Q1,70630,7,0.99
+Guatemala,Latin America,2024Q2,76105,11,1.45
+Guatemala,Latin America,2024Q3,70062,9,1.28
+Guatemala,Latin America,2024Q4,68797,13,1.89
+Guatemala,Latin America,2025Q1,84722,20,2.36
+Guatemala,Latin America,2025Q2,83278,22,2.64
+Guatemala,Latin America,2025Q3,92198,19,2.06
+Guatemala,Latin America,2025Q4,76331,26,3.41
+Guatemala,Latin America,2026Q1,95854,17,1.77
+Guatemala,Latin America,2026Q2,95420,47,4.93
+Guatemala,Latin America,2026Q3,98493,44,4.47
+Honduras,Latin America,2024Q1,13609,4,2.94
+Honduras,Latin America,2024Q2,23530,9,3.82
+Honduras,Latin America,2024Q3,22614,12,5.31
+Honduras,Latin America,2024Q4,18424,18,9.77
+Honduras,Latin America,2025Q1,16319,14,8.58
+Honduras,Latin America,2025Q2,21809,32,14.67
+Honduras,Latin America,2025Q3,22744,28,12.31
+Honduras,Latin America,2025Q4,14537,15,10.32
+Honduras,Latin America,2026Q1,8677,10,11.52
+Honduras,Latin America,2026Q2,16505,29,17.57
+Honduras,Latin America,2026Q3,20300,54,26.6
+Hungary,Central Europe,2024Q1,2035,3,14.74
+Hungary,Central Europe,2024Q2,2008,4,19.92
+Hungary,Central Europe,2024Q3,2161,3,13.88
+Hungary,Central Europe,2024Q4,2129,4,18.79
+Hungary,Central Europe,2025Q1,2066,3,14.52
+Hungary,Central Europe,2025Q2,2142,10,46.69
+Hungary,Central Europe,2025Q3,2231,8,35.86
+Hungary,Central Europe,2025Q4,2533,10,39.48
+Hungary,Central Europe,2026Q1,2439,12,49.2
+Hungary,Central Europe,2026Q2,2387,7,29.33
+Hungary,Central Europe,2026Q3,2311,5,21.64
+Iceland,Nordics & Baltics,2024Q1,175,0,0.0
+Iceland,Nordics & Baltics,2024Q2,148,0,0.0
+Iceland,Nordics & Baltics,2024Q3,117,0,0.0
+Iceland,Nordics & Baltics,2024Q4,124,0,0.0
+Iceland,Nordics & Baltics,2025Q1,162,0,0.0
+Iceland,Nordics & Baltics,2025Q2,209,0,0.0
+Iceland,Nordics & Baltics,2025Q3,150,1,66.67
+Iceland,Nordics & Baltics,2025Q4,126,1,79.37
+Iceland,Nordics & Baltics,2026Q1,169,1,59.17
+Iceland,Nordics & Baltics,2026Q2,191,0,0.0
+Iceland,Nordics & Baltics,2026Q3,190,0,0.0
+Iran,Middle East & Central Asia,2024Q1,25,0,0.0
+Iran,Middle East & Central Asia,2024Q2,17,1,588.24
+Iran,Middle East & Central Asia,2024Q3,25,0,0.0
+Iran,Middle East & Central Asia,2024Q4,12,0,0.0
+Iran,Middle East & Central Asia,2025Q1,11,0,0.0
+Iran,Middle East & Central Asia,2025Q2,42,1,238.1
+Iran,Middle East & Central Asia,2025Q3,21,0,0.0
+Iran,Middle East & Central Asia,2025Q4,17,1,588.24
+Iran,Middle East & Central Asia,2026Q1,12,0,0.0
+Ireland,Western Europe,2024Q1,1558,1,6.42
+Ireland,Western Europe,2024Q2,1938,4,20.64
+Ireland,Western Europe,2024Q3,2332,6,25.73
+Ireland,Western Europe,2024Q4,2144,3,13.99
+Ireland,Western Europe,2025Q1,2137,5,23.4
+Ireland,Western Europe,2025Q2,2509,9,35.87
+Ireland,Western Europe,2025Q3,2600,11,42.31
+Ireland,Western Europe,2025Q4,2705,10,36.97
+Ireland,Western Europe,2026Q1,2531,12,47.41
+Ireland,Western Europe,2026Q2,2916,18,61.73
+Ireland,Western Europe,2026Q3,2912,16,54.95
+Israel,Middle East & Central Asia,2024Q1,1983,0,0.0
+Israel,Middle East & Central Asia,2024Q2,806,0,0.0
+Israel,Middle East & Central Asia,2024Q3,998,0,0.0
+Israel,Middle East & Central Asia,2024Q4,961,0,0.0
+Israel,Middle East & Central Asia,2025Q1,1856,5,26.94
+Israel,Middle East & Central Asia,2025Q2,904,2,22.12
+Israel,Middle East & Central Asia,2025Q3,961,3,31.22
+Israel,Middle East & Central Asia,2025Q4,992,3,30.24
+Israel,Middle East & Central Asia,2026Q1,1914,5,26.12
+Israel,Middle East & Central Asia,2026Q2,875,3,34.29
+Israel,Middle East & Central Asia,2026Q3,882,2,22.68
+Italy,Southern Europe,2024Q1,3385,4,11.82
+Italy,Southern Europe,2024Q2,6194,7,11.3
+Italy,Southern Europe,2024Q3,6273,5,7.97
+Italy,Southern Europe,2024Q4,7294,3,4.11
+Italy,Southern Europe,2025Q1,6732,4,5.94
+Italy,Southern Europe,2025Q2,8852,12,13.56
+Italy,Southern Europe,2025Q3,7912,8,10.11
+Italy,Southern Europe,2025Q4,8188,19,23.2
+Italy,Southern Europe,2026Q1,8572,16,18.67
+Italy,Southern Europe,2026Q2,9659,12,12.42
+Italy,Southern Europe,2026Q3,9862,24,24.34
+Japan,Asia-Pacific,2024Q1,12302,24,19.51
+Japan,Asia-Pacific,2024Q2,9874,12,12.15
+Japan,Asia-Pacific,2024Q3,6394,20,31.28
+Japan,Asia-Pacific,2024Q4,6498,20,30.78
+Japan,Asia-Pacific,2025Q1,13466,33,24.51
+Japan,Asia-Pacific,2025Q2,10067,26,25.83
+Japan,Asia-Pacific,2025Q3,5825,24,41.2
+Japan,Asia-Pacific,2025Q4,5449,25,45.88
+Japan,Asia-Pacific,2026Q1,12428,47,37.82
+Japan,Asia-Pacific,2026Q2,9594,36,37.52
+Japan,Asia-Pacific,2026Q3,5620,28,49.82
+Kenya,Africa,2024Q1,9664,2,2.07
+Kenya,Africa,2024Q2,8143,2,2.46
+Kenya,Africa,2024Q3,5556,0,0.0
+Kenya,Africa,2024Q4,6997,0,0.0
+Kenya,Africa,2025Q1,17808,5,2.81
+Kenya,Africa,2025Q2,10232,1,0.98
+Kenya,Africa,2025Q3,15726,5,3.18
+Kenya,Africa,2025Q4,2589,0,0.0
+Kenya,Africa,2026Q1,2620,1,3.82
+Kenya,Africa,2026Q2,20080,4,1.99
+Kenya,Africa,2026Q3,4646,2,4.3
+Kosovo,Eastern Europe & Balkans,2024Q1,2271,0,0.0
+Kosovo,Eastern Europe & Balkans,2024Q2,2862,1,3.49
+Kosovo,Eastern Europe & Balkans,2024Q3,2921,0,0.0
+Kosovo,Eastern Europe & Balkans,2024Q4,2739,0,0.0
+Kosovo,Eastern Europe & Balkans,2025Q1,1937,0,0.0
+Kosovo,Eastern Europe & Balkans,2025Q2,2541,0,0.0
+Kosovo,Eastern Europe & Balkans,2025Q3,2395,0,0.0
+Kosovo,Eastern Europe & Balkans,2025Q4,2190,0,0.0
+Kosovo,Eastern Europe & Balkans,2026Q1,597,0,0.0
+Latvia,Nordics & Baltics,2024Q1,2589,3,11.59
+Latvia,Nordics & Baltics,2024Q2,2542,0,0.0
+Latvia,Nordics & Baltics,2024Q3,2943,8,27.18
+Latvia,Nordics & Baltics,2024Q4,2855,4,14.01
+Latvia,Nordics & Baltics,2025Q1,2942,6,20.39
+Latvia,Nordics & Baltics,2025Q2,3194,6,18.79
+Latvia,Nordics & Baltics,2025Q3,3589,14,39.01
+Latvia,Nordics & Baltics,2025Q4,3230,5,15.48
+Latvia,Nordics & Baltics,2026Q1,3451,5,14.49
+Latvia,Nordics & Baltics,2026Q2,3361,5,14.88
+Latvia,Nordics & Baltics,2026Q3,3519,5,14.21
+Liberia,Africa,2024Q4,2,0,0.0
+Liberia,Africa,2025Q1,76,0,0.0
+Liberia,Africa,2025Q2,94,0,0.0
+Liberia,Africa,2025Q3,27,0,0.0
+Liberia,Africa,2025Q4,12,0,0.0
+Liberia,Africa,2026Q1,342,0,0.0
+Liberia,Africa,2026Q2,595,0,0.0
+Liberia,Africa,2026Q3,282,0,0.0
+Liechtenstein,Western Europe,2024Q1,11,0,0.0
+Liechtenstein,Western Europe,2024Q2,34,0,0.0
+Liechtenstein,Western Europe,2024Q3,52,0,0.0
+Liechtenstein,Western Europe,2024Q4,48,0,0.0
+Liechtenstein,Western Europe,2025Q1,16,0,0.0
+Liechtenstein,Western Europe,2025Q2,44,0,0.0
+Liechtenstein,Western Europe,2025Q3,46,0,0.0
+Liechtenstein,Western Europe,2025Q4,28,0,0.0
+Liechtenstein,Western Europe,2026Q1,47,0,0.0
+Liechtenstein,Western Europe,2026Q2,73,0,0.0
+Liechtenstein,Western Europe,2026Q3,45,4,888.89
+Lithuania,Nordics & Baltics,2024Q1,2385,4,16.77
+Lithuania,Nordics & Baltics,2024Q2,3349,9,26.87
+Lithuania,Nordics & Baltics,2024Q3,3400,6,17.65
+Lithuania,Nordics & Baltics,2024Q4,4179,3,7.18
+Lithuania,Nordics & Baltics,2025Q1,3256,2,6.14
+Lithuania,Nordics & Baltics,2025Q2,4000,4,10.0
+Lithuania,Nordics & Baltics,2025Q3,4062,12,29.54
+Lithuania,Nordics & Baltics,2025Q4,4363,16,36.67
+Lithuania,Nordics & Baltics,2026Q1,3916,5,12.77
+Lithuania,Nordics & Baltics,2026Q2,4316,10,23.17
+Lithuania,Nordics & Baltics,2026Q3,4249,21,49.42
+Luxembourg,Western Europe,2024Q1,428,0,0.0
+Luxembourg,Western Europe,2024Q2,489,1,20.45
+Luxembourg,Western Europe,2024Q3,585,2,34.19
+Luxembourg,Western Europe,2024Q4,553,2,36.17
+Luxembourg,Western Europe,2025Q1,544,2,36.76
+Luxembourg,Western Europe,2025Q2,623,2,32.1
+Luxembourg,Western Europe,2025Q3,637,4,62.79
+Luxembourg,Western Europe,2025Q4,752,1,13.3
+Luxembourg,Western Europe,2026Q1,663,5,75.41
+Luxembourg,Western Europe,2026Q2,743,6,80.75
+Luxembourg,Western Europe,2026Q3,718,5,69.64
+Malta,Southern Europe,2024Q1,441,0,0.0
+Malta,Southern Europe,2024Q2,496,0,0.0
+Malta,Southern Europe,2024Q3,495,0,0.0
+Malta,Southern Europe,2024Q4,589,0,0.0
+Malta,Southern Europe,2025Q1,563,0,0.0
+Malta,Southern Europe,2025Q2,592,0,0.0
+Malta,Southern Europe,2025Q3,635,4,62.99
+Malta,Southern Europe,2025Q4,613,1,16.31
+Malta,Southern Europe,2026Q1,505,1,19.8
+Malta,Southern Europe,2026Q2,624,1,16.03
+Malta,Southern Europe,2026Q3,573,2,34.9
+Mexico,North America,2024Q1,17359,5,2.88
+Mexico,North America,2024Q2,27701,4,1.44
+Mexico,North America,2024Q3,11537,2,1.73
+Mexico,North America,2024Q4,9984,4,4.01
+Mexico,North America,2025Q1,15227,1,0.66
+Mexico,North America,2025Q2,16332,2,1.22
+Mexico,North America,2025Q3,18485,5,2.7
+Mexico,North America,2025Q4,13896,4,2.88
+Mexico,North America,2026Q1,12935,2,1.55
+Mexico,North America,2026Q2,20840,7,3.36
+Mexico,North America,2026Q3,13347,8,5.99
+Moldova,Eastern Europe & Balkans,2026Q1,1,0,0.0
+Moldova,Eastern Europe & Balkans,2026Q2,76,0,0.0
+Netherlands,Western Europe,2024Q1,4421,4,9.05
+Netherlands,Western Europe,2024Q2,4596,6,13.05
+Netherlands,Western Europe,2024Q3,4608,4,8.68
+Netherlands,Western Europe,2024Q4,5305,4,7.54
+Netherlands,Western Europe,2025Q1,4688,3,6.4
+Netherlands,Western Europe,2025Q2,4896,2,4.08
+Netherlands,Western Europe,2025Q3,4923,3,6.09
+Netherlands,Western Europe,2025Q4,5372,3,5.58
+Netherlands,Western Europe,2026Q1,5060,6,11.86
+Netherlands,Western Europe,2026Q2,4917,11,22.37
+Netherlands,Western Europe,2026Q3,5110,3,5.87
+New Zealand,Asia-Pacific,2024Q1,608,0,0.0
+New Zealand,Asia-Pacific,2024Q2,753,0,0.0
+New Zealand,Asia-Pacific,2024Q3,802,0,0.0
+New Zealand,Asia-Pacific,2024Q4,1054,0,0.0
+New Zealand,Asia-Pacific,2025Q1,663,0,0.0
+New Zealand,Asia-Pacific,2025Q2,886,0,0.0
+New Zealand,Asia-Pacific,2025Q3,1341,3,22.37
+New Zealand,Asia-Pacific,2025Q4,1178,0,0.0
+Nigeria,Africa,2024Q1,15256,5,3.28
+Nigeria,Africa,2024Q2,6042,2,3.31
+Nigeria,Africa,2024Q3,19274,9,4.67
+Nigeria,Africa,2024Q4,6187,11,17.78
+Nigeria,Africa,2025Q1,15009,18,11.99
+Nigeria,Africa,2025Q2,531,0,0.0
+Nigeria,Africa,2025Q3,109,0,0.0
+Nigeria,Africa,2025Q4,2607,1,3.84
+Nigeria,Africa,2026Q1,103,0,0.0
+Nigeria,Africa,2026Q2,58,0,0.0
+Nigeria,Africa,2026Q3,40,0,0.0
+North Macedonia,Eastern Europe & Balkans,2024Q1,4101,0,0.0
+North Macedonia,Eastern Europe & Balkans,2024Q2,3441,0,0.0
+North Macedonia,Eastern Europe & Balkans,2024Q3,3346,0,0.0
+North Macedonia,Eastern Europe & Balkans,2024Q4,4944,1,2.02
+Norway,Nordics & Baltics,2024Q1,2551,8,31.36
+Norway,Nordics & Baltics,2024Q2,2710,4,14.76
+Norway,Nordics & Baltics,2024Q3,2182,7,32.08
+Norway,Nordics & Baltics,2024Q4,2801,16,57.12
+Norway,Nordics & Baltics,2025Q1,2810,13,46.26
+Norway,Nordics & Baltics,2025Q2,2901,11,37.92
+Norway,Nordics & Baltics,2025Q3,2193,6,27.36
+Norway,Nordics & Baltics,2025Q4,2978,10,33.58
+Norway,Nordics & Baltics,2026Q1,2978,21,70.52
+Norway,Nordics & Baltics,2026Q2,2971,12,40.39
+Norway,Nordics & Baltics,2026Q3,2177,11,50.53
+Paraguay,Latin America,2024Q1,1227,0,0.0
+Paraguay,Latin America,2024Q2,1727,1,5.79
+Paraguay,Latin America,2024Q3,3353,3,8.95
+Paraguay,Latin America,2024Q4,2502,0,0.0
+Paraguay,Latin America,2025Q1,1307,1,7.65
+Paraguay,Latin America,2025Q2,2208,0,0.0
+Paraguay,Latin America,2025Q3,3399,5,14.71
+Paraguay,Latin America,2025Q4,1829,11,60.14
+Paraguay,Latin America,2026Q1,1244,1,8.04
+Paraguay,Latin America,2026Q2,1442,1,6.93
+Paraguay,Latin America,2026Q3,304,1,32.89
+Peru,Latin America,2024Q1,11723,1,0.85
+Peru,Latin America,2024Q2,23814,7,2.94
+Peru,Latin America,2024Q3,20789,9,4.33
+Peru,Latin America,2024Q4,23785,13,5.47
+Peru,Latin America,2025Q1,14413,1,0.69
+Peru,Latin America,2025Q2,18882,7,3.71
+Peru,Latin America,2025Q3,21900,8,3.65
+Peru,Latin America,2025Q4,23910,20,8.36
+Peru,Latin America,2026Q1,14171,1,0.71
+Peru,Latin America,2026Q2,23274,12,5.16
+Peru,Latin America,2026Q3,19885,16,8.05
+Poland,Central Europe,2024Q1,16796,11,6.55
+Poland,Central Europe,2024Q2,20372,9,4.42
+Poland,Central Europe,2024Q3,24459,12,4.91
+Poland,Central Europe,2024Q4,27414,20,7.3
+Poland,Central Europe,2025Q1,24679,18,7.29
+Poland,Central Europe,2025Q2,23789,37,15.55
+Poland,Central Europe,2025Q3,28576,73,25.55
+Poland,Central Europe,2025Q4,31670,128,40.42
+Poland,Central Europe,2026Q1,30028,253,84.25
+Poland,Central Europe,2026Q2,29299,206,70.31
+Poland,Central Europe,2026Q3,29774,121,40.64
+Portugal,Southern Europe,2024Q1,1296,1,7.72
+Portugal,Southern Europe,2024Q2,2984,3,10.05
+Portugal,Southern Europe,2024Q3,3282,9,27.42
+Portugal,Southern Europe,2024Q4,3657,6,16.41
+Portugal,Southern Europe,2025Q1,3740,7,18.72
+Portugal,Southern Europe,2025Q2,4104,9,21.93
+Portugal,Southern Europe,2025Q3,3876,6,15.48
+Portugal,Southern Europe,2025Q4,4119,14,33.99
+Portugal,Southern Europe,2026Q1,4009,10,24.94
+Portugal,Southern Europe,2026Q2,3981,11,27.63
+Portugal,Southern Europe,2026Q3,4454,12,26.94
+Romania,Eastern Europe & Balkans,2024Q1,10665,24,22.5
+Romania,Eastern Europe & Balkans,2024Q2,10098,26,25.75
+Romania,Eastern Europe & Balkans,2024Q3,9512,24,25.23
+Romania,Eastern Europe & Balkans,2024Q4,9982,42,42.08
+Romania,Eastern Europe & Balkans,2025Q1,9245,28,30.29
+Romania,Eastern Europe & Balkans,2025Q2,10092,94,93.14
+Romania,Eastern Europe & Balkans,2025Q3,9977,79,79.18
+Romania,Eastern Europe & Balkans,2025Q4,9903,69,69.68
+Romania,Eastern Europe & Balkans,2026Q1,9566,66,68.99
+Romania,Eastern Europe & Balkans,2026Q2,9628,64,66.47
+Romania,Eastern Europe & Balkans,2026Q3,9655,65,67.32
+Rwanda,Africa,2024Q1,1579,2,12.67
+Rwanda,Africa,2024Q2,1268,3,23.66
+Rwanda,Africa,2024Q3,1328,1,7.53
+Rwanda,Africa,2024Q4,1310,2,15.27
+Rwanda,Africa,2025Q1,1314,1,7.61
+Rwanda,Africa,2025Q2,1284,1,7.79
+Rwanda,Africa,2025Q3,1242,2,16.1
+Rwanda,Africa,2025Q4,1187,0,0.0
+Rwanda,Africa,2026Q1,1305,0,0.0
+Rwanda,Africa,2026Q2,558,0,0.0
+Singapore,Asia-Pacific,2024Q1,602,3,49.83
+Singapore,Asia-Pacific,2024Q2,555,1,18.02
+Singapore,Asia-Pacific,2024Q3,582,0,0.0
+Singapore,Asia-Pacific,2024Q4,615,4,65.04
+Singapore,Asia-Pacific,2025Q1,627,4,63.8
+Singapore,Asia-Pacific,2025Q2,560,7,125.0
+Singapore,Asia-Pacific,2025Q3,619,8,129.24
+Singapore,Asia-Pacific,2025Q4,618,5,80.91
+Singapore,Asia-Pacific,2026Q1,515,4,77.67
+Slovakia,Central Europe,2024Q1,1823,4,21.94
+Slovakia,Central Europe,2024Q2,1808,0,0.0
+Slovakia,Central Europe,2024Q3,2159,0,0.0
+Slovakia,Central Europe,2024Q4,2359,0,0.0
+Slovakia,Central Europe,2025Q1,1833,3,16.37
+Slovakia,Central Europe,2025Q2,2059,7,34.0
+Slovakia,Central Europe,2025Q3,2367,8,33.8
+Slovakia,Central Europe,2025Q4,2609,5,19.16
+Slovakia,Central Europe,2026Q1,2352,5,21.26
+Slovakia,Central Europe,2026Q2,2271,5,22.02
+Slovakia,Central Europe,2026Q3,2325,8,34.41
+Slovenia,Central Europe,2024Q1,1621,0,0.0
+Slovenia,Central Europe,2024Q2,2411,2,8.3
+Slovenia,Central Europe,2024Q3,2453,6,24.46
+Slovenia,Central Europe,2024Q4,2543,5,19.66
+Slovenia,Central Europe,2025Q1,2351,3,12.76
+Slovenia,Central Europe,2025Q2,2698,4,14.83
+Slovenia,Central Europe,2025Q3,2900,5,17.24
+Slovenia,Central Europe,2025Q4,2735,9,32.91
+Slovenia,Central Europe,2026Q1,2484,1,4.03
+Slovenia,Central Europe,2026Q2,3335,5,14.99
+Slovenia,Central Europe,2026Q3,2871,6,20.9
+South Africa,Africa,2024Q1,1572,0,0.0
+South Africa,Africa,2024Q2,1675,3,17.91
+South Africa,Africa,2024Q3,2352,1,4.25
+South Africa,Africa,2024Q4,1723,1,5.8
+South Africa,Africa,2025Q1,2079,2,9.62
+South Africa,Africa,2025Q2,2148,4,18.62
+South Africa,Africa,2025Q3,1798,1,5.56
+South Africa,Africa,2025Q4,1189,2,16.82
+South Africa,Africa,2026Q1,754,1,13.26
+South Africa,Africa,2026Q2,754,4,53.05
+South Africa,Africa,2026Q3,1548,6,38.76
+Spain,Southern Europe,2024Q1,10339,28,27.08
+Spain,Southern Europe,2024Q2,13288,26,19.57
+Spain,Southern Europe,2024Q3,12940,31,23.96
+Spain,Southern Europe,2024Q4,15012,43,28.64
+Spain,Southern Europe,2025Q1,13468,36,26.73
+Spain,Southern Europe,2025Q2,15146,59,38.95
+Spain,Southern Europe,2025Q3,14414,69,47.87
+Spain,Southern Europe,2025Q4,16315,89,54.55
+Spain,Southern Europe,2026Q1,13900,71,51.08
+Spain,Southern Europe,2026Q2,15794,82,51.92
+Spain,Southern Europe,2026Q3,14973,69,46.08
+Sweden,Nordics & Baltics,2024Q1,5129,2,3.9
+Sweden,Nordics & Baltics,2024Q2,6159,4,6.49
+Sweden,Nordics & Baltics,2024Q3,4312,1,2.32
+Sweden,Nordics & Baltics,2024Q4,6208,0,0.0
+Sweden,Nordics & Baltics,2025Q1,6032,1,1.66
+Sweden,Nordics & Baltics,2025Q2,6221,3,4.82
+Sweden,Nordics & Baltics,2025Q3,4193,4,9.54
+Sweden,Nordics & Baltics,2025Q4,6139,5,8.14
+Sweden,Nordics & Baltics,2026Q1,5966,3,5.03
+Sweden,Nordics & Baltics,2026Q2,6335,2,3.16
+Sweden,Nordics & Baltics,2026Q3,4266,1,2.34
+Tanzania,Africa,2024Q1,27446,1,0.36
+Tanzania,Africa,2024Q2,46883,6,1.28
+Tanzania,Africa,2024Q3,57421,1,0.17
+Tanzania,Africa,2024Q4,135442,11,0.81
+Tanzania,Africa,2025Q1,148454,13,0.88
+Tanzania,Africa,2025Q2,162716,14,0.86
+Tanzania,Africa,2025Q3,118326,17,1.44
+Tanzania,Africa,2025Q4,164614,35,2.13
+Tanzania,Africa,2026Q1,54412,25,4.59
+Uganda,Africa,2024Q1,3157,0,0.0
+Uganda,Africa,2024Q2,449,0,0.0
+Uganda,Africa,2024Q3,1554,0,0.0
+Uganda,Africa,2024Q4,1579,0,0.0
+Uganda,Africa,2025Q1,165,0,0.0
+Ukraine,Eastern Europe & Balkans,2024Q1,33133,0,0.0
+Ukraine,Eastern Europe & Balkans,2024Q2,36715,0,0.0
+Ukraine,Eastern Europe & Balkans,2024Q3,97713,2,0.2
+Ukraine,Eastern Europe & Balkans,2024Q4,172308,16,0.93
+Ukraine,Eastern Europe & Balkans,2025Q1,146789,4,0.27
+Ukraine,Eastern Europe & Balkans,2025Q2,139992,15,1.07
+Ukraine,Eastern Europe & Balkans,2025Q3,147767,15,1.02
+Ukraine,Eastern Europe & Balkans,2025Q4,199300,24,1.2
+Ukraine,Eastern Europe & Balkans,2026Q1,175786,16,0.91
+Ukraine,Eastern Europe & Balkans,2026Q2,170218,30,1.76
+Ukraine,Eastern Europe & Balkans,2026Q3,177689,49,2.76
+United Kingdom,Western Europe,2024Q1,25670,109,42.46
+United Kingdom,Western Europe,2024Q2,23018,82,35.62
+United Kingdom,Western Europe,2024Q3,26609,110,41.34
+United Kingdom,Western Europe,2024Q4,22343,124,55.5
+United Kingdom,Western Europe,2025Q1,25103,116,46.21
+United Kingdom,Western Europe,2025Q2,24065,127,52.77
+United Kingdom,Western Europe,2025Q3,25275,175,69.24
+United Kingdom,Western Europe,2025Q4,22020,157,71.3
+United Kingdom,Western Europe,2026Q1,26962,211,78.26
+United Kingdom,Western Europe,2026Q2,24473,196,80.09
+United Kingdom,Western Europe,2026Q3,24297,260,107.01
+United States,North America,2024Q1,1341938,68,0.51
+United States,North America,2024Q2,1322470,116,0.88
+United States,North America,2024Q3,1545120,194,1.26
+United States,North America,2024Q4,1179416,49,0.42
+United States,North America,2025Q1,1339466,83,0.62
+United States,North America,2025Q2,1290066,100,0.78
+United States,North America,2025Q3,1520931,276,1.81
+United States,North America,2025Q4,1036789,22,0.21
+United States,North America,2026Q1,1359813,81,0.6
+United States,North America,2026Q2,1305728,125,0.96
+United States,North America,2026Q3,597992,155,2.59
+Uruguay,Latin America,2024Q1,20372,2,0.98
+Uruguay,Latin America,2024Q2,26411,2,0.76
+Uruguay,Latin America,2024Q3,24588,2,0.81
+Uruguay,Latin America,2024Q4,22066,4,1.81
+Uruguay,Latin America,2025Q1,19906,0,0.0
+Uruguay,Latin America,2025Q2,19808,7,3.53
+Uruguay,Latin America,2025Q3,21213,5,2.36
+Uruguay,Latin America,2025Q4,22156,4,1.81
+Uruguay,Latin America,2026Q1,18519,1,0.54
+Uruguay,Latin America,2026Q2,19418,5,2.57
+Uruguay,Latin America,2026Q3,19726,11,5.58
+Uzbekistan,Middle East & Central Asia,2024Q1,77,0,0.0
+Uzbekistan,Middle East & Central Asia,2024Q2,112,0,0.0
+Uzbekistan,Middle East & Central Asia,2024Q3,96,0,0.0
+Uzbekistan,Middle East & Central Asia,2024Q4,168,0,0.0
+Uzbekistan,Middle East & Central Asia,2025Q1,3268,0,0.0
+Uzbekistan,Middle East & Central Asia,2025Q2,119254,0,0.0
+Uzbekistan,Middle East & Central Asia,2025Q3,59062,0,0.0
+Uzbekistan,Middle East & Central Asia,2025Q4,18621,0,0.0
+Uzbekistan,Middle East & Central Asia,2026Q1,15175,0,0.0
+Uzbekistan,Middle East & Central Asia,2026Q2,7038,0,0.0
+Uzbekistan,Middle East & Central Asia,2026Q3,3321,0,0.0
+Zambia,Africa,2024Q1,6567,0,0.0
+Zambia,Africa,2024Q2,13586,2,1.47
+Zambia,Africa,2024Q3,14044,2,1.42
+Zambia,Africa,2024Q4,16393,2,1.22
+Zambia,Africa,2025Q1,15514,7,4.51
+Zambia,Africa,2025Q2,23072,10,4.33
+Zambia,Africa,2025Q3,20809,8,3.84
+Zambia,Africa,2025Q4,22749,5,2.2
+Zambia,Africa,2026Q1,8809,2,2.27
+Zambia,Africa,2026Q2,12759,5,3.92

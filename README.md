@@ -90,13 +90,13 @@ Use the Python notebook at https://github.com/getbeton/how-governments-buy-ai.
 
 ## The article's numbers
 
-`data/` holds the aggregates of the article, for a comparison with your run. Counts, shares and percentiles only; no single procurement records.
+`article/` holds the aggregates of the article, for a comparison with your run. Counts, shares and percentiles only; no single procurement records.
 
 | File | What |
 |---|---|
-| `data/how-governments-buy-ai-countries.csv` | Procurements, AI procurements and AI per 10,000 for each country, by year and for the last four quarters |
-| `data/how-governments-buy-ai-quarterly.csv` | Procurements and AI procurements for each country and quarter, Q1 2024 to Q3 2026 |
-| `data/how-governments-buy-ai-aggregates.json` | The numbers behind every chart, and the open-tender counts of 17 October 2026 |
+| `article/how-governments-buy-ai-countries.csv` | Procurements, AI procurements and AI per 10,000 for each country, by year and for the last four quarters |
+| `article/how-governments-buy-ai-quarterly.csv` | Procurements and AI procurements for each country and quarter, Q1 2024 to Q3 2026 |
+| `article/how-governments-buy-ai-aggregates.json` | The numbers behind every chart, and the open-tender counts of 17 October 2026 |
 
 ## Use it as an agent skill
 
