@@ -88,6 +88,20 @@ Use the Python notebook at https://github.com/getbeton/how-governments-buy-ai.
    and the data is newer.
 ```
 
+## The article's numbers
+
+`data/` holds the aggregates of the article, for a comparison with your run. Counts, shares and percentiles only; no single procurement records.
+
+| File | What |
+|---|---|
+| `data/how-governments-buy-ai-countries.csv` | Procurements, AI procurements and AI per 10,000 for each country, by year and for the last four quarters |
+| `data/how-governments-buy-ai-quarterly.csv` | Procurements and AI procurements for each country and quarter, Q1 2024 to Q3 2026 |
+| `data/how-governments-buy-ai-aggregates.json` | The numbers behind every chart, and the open-tender counts of 17 October 2026 |
+
+## Use it as an agent skill
+
+The same steps are an agent skill: `skills/how-governments-buy-ai/SKILL.md`. Copy the folder `skills/how-governments-buy-ai` into the skills folder of your agent (Claude Code: `~/.claude/skills/`). Then ask the agent to rerun the study for your countries.
+
 ## Licence
 
 The code is MIT-licensed (see `LICENSE`). The data comes from public procurement portals through Sell to State; follow the [API terms](https://www.selltostate.com/terms/) when you publish rows. If you use the results, link to the article.
